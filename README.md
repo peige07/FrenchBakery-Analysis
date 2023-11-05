@@ -11,17 +11,12 @@ The data set begins used represents daily sales at a French bakery, data can be 
 - Tableau (data visualization and dashboard)
 
 **Project structure:**
-- Data Exploration
-- Data Transformation
-- Data Cleaning
+- Project Objectives & Goals
+- Data Loading and Preprocessing
 - Exploratory Data Analysis
-- Data Visualization in Excel & Tableau
-
-## Project Objectives & Goals:
-- Identify the highest-grossing months of the year.
-- Determine the top 10 best-selling items on the menu.
-- Determine year-over-year revenue growth.
-- Project total yearly revenue for 2022.
-- Project yearly revenue for 2023.
-
+- Data Visualization & Conclusions
+  - Jupyter Visualizations
+  - Excel Dashboard
+  - Tableau Dashboard
+    
 The project can be found in the files section in a Jupyter Notebook.
