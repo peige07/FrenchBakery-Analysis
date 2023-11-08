@@ -14,9 +14,10 @@ The data set begins used represents daily sales at a French bakery, data can be 
 - Project Objectives & Goals
 - Data Loading and Preprocessing
 - Exploratory Data Analysis
-- Data Visualization & Conclusions
+- Data Visualization 
   - Jupyter Visualizations
   - Excel Dashboard
   - Tableau Dashboard
+- Conclusions
     
 The project can be found in the files section in a Jupyter Notebook.
