@@ -1,4 +1,4 @@
-# French Bakery Data Analysis<
+# French Bakery Data Analysis
 
 For business inquiries or collaboration requests, you can reach me at <span style="font-weight: bold; color: #fff87e;">peige77@gmail.com</span>
 
